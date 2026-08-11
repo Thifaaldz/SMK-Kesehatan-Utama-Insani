@@ -1,1 +1,0 @@
-# SMK-Kesehatan-Utama-Insani
