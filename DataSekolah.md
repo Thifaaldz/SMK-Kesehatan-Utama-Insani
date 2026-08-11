@@ -1,914 +1,1029 @@
-# 🏥 SMK Kesehatan Utama Insani
+# 🏛️ YAYASAN UTAMA INSANI PANONGAN
 
 <p align="center">
-  <img src="https://www.utamainsani.sch.id/admin/user/images/SD.jpg" alt="SMK Kesehatan Utama Insani" width="720">
+  <b>Portfolio Digital Yayasan & Ekosistem Pendidikan Utama Insani</b><br>
+  Panongan, Kabupaten Tangerang, Banten
 </p>
 
 <p align="center">
-  <b>Portfolio & Profil Digital Sekolah</b><br>
-  Sekolah Menengah Kejuruan bidang kesehatan di Panongan, Kabupaten Tangerang, Banten
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Swasta-blue" alt="Status Swasta">
-  <img src="https://img.shields.io/badge/Akreditasi-B-success" alt="Akreditasi B">
-  <img src="https://img.shields.io/badge/NPSN-20623127-orange" alt="NPSN 20623127">
-  <img src="https://img.shields.io/badge/Lokasi-Tangerang-red" alt="Tangerang">
+  <img src="https://img.shields.io/badge/Bentuk-Yayasan-blue" alt="Yayasan">
+  <img src="https://img.shields.io/badge/NPYP-AM6287-orange" alt="NPYP AM6287">
+  <img src="https://img.shields.io/badge/Berdiri-2010-success" alt="Berdiri 2010">
+  <img src="https://img.shields.io/badge/Satuan_Pendidikan-4-red" alt="4 Satuan Pendidikan">
 </p>
 
 ---
 
-## 📌 Tentang README Ini
+## 📌 Tentang Dokumen Ini
 
-README ini disusun sebagai **portfolio digital lengkap SMK Kesehatan Utama Insani** yang dapat digunakan sebagai:
+README ini merupakan **portfolio digital Yayasan Utama Insani Panongan** yang disusun dari sumber publik resmi dan sumber institusi yang dapat diverifikasi.
 
-- profil sekolah pada repository GitHub;
-- dasar pembuatan website company/school profile;
-- dokumentasi sekolah;
-- bahan pengenalan sekolah;
-- landing page penerimaan peserta didik baru;
-- bahan presentasi atau proposal pengembangan website sekolah;
-- referensi struktur konten media informasi sekolah.
+Dokumen ini dapat digunakan sebagai:
 
-Data faktual di dalam dokumen ini disusun dari sumber publik sekolah dan sumber pendidikan pemerintah yang dapat diverifikasi. Beberapa data bersifat dinamis sehingga sebaiknya diperiksa kembali sebelum digunakan untuk publikasi resmi.
+- profil yayasan pada website;
+- README GitHub;
+- dasar pembuatan website Yayasan Utama Insani;
+- bahan proposal dan presentasi;
+- dokumentasi organisasi;
+- halaman “Tentang Yayasan”;
+- company/institution profile;
+- penghubung profil TK, SDIT, SMP Islam Plus, dan SMK Kesehatan Utama Insani;
+- dasar pengembangan portal pendidikan terpadu Yayasan Utama Insani.
 
-> **Catatan:** README ini bukan dokumen resmi yang diterbitkan oleh SMK Kesehatan Utama Insani. Untuk penggunaan sebagai website resmi, seluruh nama pejabat, statistik, kontak, foto, logo, fasilitas, biaya, dan informasi penerimaan siswa harus memperoleh validasi dari pihak sekolah.
+> **Catatan:** Dokumen ini bukan dokumen resmi yang diterbitkan yayasan. Informasi struktur pengurus lengkap, sejarah naratif, pendiri, pembina, pengawas, nomor akta notaris, program kerja internal, data keuangan, aset, dan kerja sama yang tidak tersedia pada sumber publik **tidak diisi dengan asumsi**. Bagian tersebut harus dilengkapi menggunakan dokumen internal yayasan.
 
 ---
 
 # 📑 Daftar Isi
 
-1. [Identitas Sekolah](#-identitas-sekolah)
+1. [Identitas Yayasan](#-identitas-yayasan)
 2. [Profil Singkat](#-profil-singkat)
-3. [Latar Belakang dan Karakter Sekolah](#-latar-belakang-dan-karakter-sekolah)
-4. [Visi](#-visi)
-5. [Misi](#-misi)
-6. [Nilai dan Budaya Sekolah](#-nilai-dan-budaya-sekolah)
-7. [Program Keahlian](#-program-keahlian)
-8. [Program Keahlian Keperawatan](#-program-keahlian-keperawatan)
-9. [Program Keahlian Farmasi](#-program-keahlian-farmasi)
-10. [Model Pembelajaran](#-model-pembelajaran)
-11. [Praktikum dan Pembelajaran Terapan](#-praktikum-dan-pembelajaran-terapan)
-12. [Kegiatan Siswa](#-kegiatan-siswa)
-13. [Pengembangan Karakter](#-pengembangan-karakter)
-14. [Hubungan dengan Dunia Kesehatan dan Industri](#-hubungan-dengan-dunia-kesehatan-dan-industri)
-15. [Sarana dan Prasarana](#-sarana-dan-prasarana)
-16. [Akreditasi dan Legalitas](#-akreditasi-dan-legalitas)
-17. [Data Peserta Didik](#-data-peserta-didik)
-18. [Tenaga Pendidik](#-tenaga-pendidik)
-19. [Yayasan](#-yayasan)
-20. [Prospek Lulusan](#-prospek-lulusan)
-21. [Lokasi](#-lokasi)
-22. [Kontak](#-kontak)
-23. [Media Sosial dan Kanal Informasi](#-media-sosial-dan-kanal-informasi)
-24. [Konsep Website Portfolio](#-konsep-website-portfolio)
+3. [Legalitas Yayasan](#-legalitas-yayasan)
+4. [Pimpinan dan Pengelola](#-pimpinan-dan-pengelola)
+5. [Alamat dan Wilayah Operasional](#-alamat-dan-wilayah-operasional)
+6. [Kontak](#-kontak)
+7. [Visi Pendidikan](#-visi-pendidikan)
+8. [Misi Pendidikan](#-misi-pendidikan)
+9. [Nilai Utama](#-nilai-utama)
+10. [Perkembangan Yayasan](#-perkembangan-yayasan)
+11. [Satuan Pendidikan di Bawah Yayasan](#-satuan-pendidikan-di-bawah-yayasan)
+12. [TK Utama Insani](#-tk-utama-insani)
+13. [SDIT Utama Insani](#-sdit-utama-insani)
+14. [SMP Islam Plus Utama Insani](#-smp-islam-plus-utama-insani)
+15. [SMKS Kesehatan Utama Insani](#-smks-kesehatan-utama-insani)
+16. [Ekosistem Pendidikan Utama Insani](#-ekosistem-pendidikan-utama-insani)
+17. [Arah Pendidikan](#-arah-pendidikan)
+18. [Peran Yayasan](#-peran-yayasan)
+19. [Tata Kelola yang Direkomendasikan](#-tata-kelola-yang-direkomendasikan)
+20. [Hubungan Yayasan dan Satuan Pendidikan](#-hubungan-yayasan-dan-satuan-pendidikan)
+21. [Pengembangan Peserta Didik](#-pengembangan-peserta-didik)
+22. [Kegiatan dan Budaya Pendidikan](#-kegiatan-dan-budaya-pendidikan)
+23. [Digitalisasi Yayasan](#-digitalisasi-yayasan)
+24. [Konsep Website Yayasan](#-konsep-website-yayasan)
 25. [Struktur Halaman Website](#-struktur-halaman-website)
-26. [Fitur Website yang Disarankan](#-fitur-website-yang-disarankan)
+26. [Fitur Portal Yayasan](#-fitur-portal-yayasan)
 27. [Struktur Repository](#-struktur-repository)
-28. [Identitas Visual](#-identitas-visual)
-29. [Standar Konten dan Foto](#-standar-konten-dan-foto)
-30. [SEO dan Metadata](#-seo-dan-metadata)
-31. [Keamanan dan Privasi](#-keamanan-dan-privasi)
-32. [Sumber Data](#-sumber-data)
-33. [Disclaimer](#-disclaimer)
+28. [Keamanan dan Privasi](#-keamanan-dan-privasi)
+29. [SEO dan Metadata](#-seo-dan-metadata)
+30. [Data yang Masih Perlu Dilengkapi](#-data-yang-masih-perlu-dilengkapi)
+31. [Sumber Data](#-sumber-data)
+32. [Disclaimer](#-disclaimer)
 
 ---
 
-# 🏫 Identitas Sekolah
+# 🏛️ Identitas Yayasan
 
 | Informasi | Keterangan |
 |---|---|
-| **Nama Sekolah** | SMKS Kesehatan Utama Insani |
-| **Nama yang digunakan publik** | SMK Kesehatan Utama Insani |
-| **NPSN** | 20623127 |
-| **Jenjang** | Sekolah Menengah Kejuruan (SMK) |
-| **Status** | Swasta |
-| **Bidang Utama** | Pendidikan vokasi bidang kesehatan |
+| **Nama** | YAYASAN UTAMA INSANI PANONGAN |
+| **Bentuk Badan** | Yayasan |
+| **NPYP** | AM6287 |
+| **Nomor Pendirian Yayasan** | 01 |
+| **Tanggal Pendirian** | 1 Maret 2010 |
+| **SK Pengesahan Badan Hukum Menkumham** | AHU-2087.AH.01.04.Tahun 2010 |
+| **Tanggal Pengesahan Menkumham** | 31 Mei 2010 |
+| **Pimpinan Yayasan pada data publik** | R.M. Gutomo, S.E. |
+| **Operator Yayasan pada data publik** | Setyo Legowo Haryono |
 | **Provinsi** | Banten |
 | **Kabupaten** | Kabupaten Tangerang |
 | **Kecamatan** | Panongan |
-| **Alamat** | Jl. AMD No. 9 Panongan, Kecamatan Panongan, Kabupaten Tangerang, Banten |
 | **Kode Pos** | 15710 |
-| **Waktu Belajar** | Sehari penuh / 5 hari |
-| **Akreditasi** | B |
-| **NPSN** | 20623127 |
-| **Website** | https://www.utamainsani.sch.id |
-| **Instagram SMK** | @smkui.official |
-
-### Informasi kepala sekolah
-
-Portal data pendidikan publik yang mengacu pada data Kemendikdasmen menampilkan nama **Syafrika Nurlia Nafitri** sebagai Kepala Sekolah. Karena jabatan sekolah dapat berubah, informasi ini **harus diperiksa kembali dengan sekolah sebelum dipublikasikan sebagai data resmi terkini**.
+| **Email Yayasan pada Verval** | utamainsanipanongan@gmail.com |
+| **Website Ekosistem Sekolah** | https://www.utamainsani.sch.id |
+| **Jumlah Satuan Pendidikan Tercatat** | 4 |
 
 ---
 
 # 🌟 Profil Singkat
 
-**SMK Kesehatan Utama Insani** merupakan sekolah menengah kejuruan swasta di Kecamatan Panongan, Kabupaten Tangerang, Provinsi Banten, yang berfokus pada pendidikan vokasi bidang kesehatan.
+**Yayasan Utama Insani Panongan** merupakan badan penyelenggara pendidikan yang berlokasi di Kecamatan Panongan, Kabupaten Tangerang, Provinsi Banten.
 
-Sekolah menggabungkan pembelajaran akademik, pembentukan karakter, praktik kejuruan, pemahaman kesehatan, serta nilai-nilai Islami sebagai bagian dari proses pendidikan.
+Berdasarkan data Verifikasi dan Validasi Yayasan Kemendikdasmen, yayasan memiliki **NPYP AM6287**, didirikan pada **1 Maret 2010**, dan memperoleh pengesahan badan hukum melalui **SK Menkumham AHU-2087.AH.01.04.Tahun 2010** pada **31 Mei 2010**.
 
-Keberadaan program keahlian **Keperawatan** dan **Farmasi** memberikan ruang bagi peserta didik untuk mempelajari kompetensi kesehatan secara lebih terarah sejak jenjang pendidikan menengah.
+Dalam data pendidikan pemerintah, Yayasan Utama Insani Panongan menaungi empat jenjang pendidikan:
 
-Pada praktiknya, pembelajaran tidak hanya dilakukan melalui materi kelas, tetapi juga dapat melibatkan kegiatan praktik, penggunaan perangkat atau *tool kit* kejuruan, aktivitas kesehatan, kunjungan industri, kegiatan organisasi siswa, dan pembentukan karakter.
+1. TK Utama Insani;
+2. SDIT Utama Insani;
+3. SMP Islam Plus Utama Insani;
+4. SMKS Kesehatan Utama Insani.
 
-Sekolah berada di lingkungan Yayasan Utama Insani yang juga menaungi satuan pendidikan lain sehingga menjadi bagian dari ekosistem pendidikan Utama Insani di wilayah Panongan.
+Dengan cakupan tersebut, yayasan membentuk jalur pendidikan dari **pendidikan anak usia dini, pendidikan dasar, pendidikan menengah pertama, sampai pendidikan menengah kejuruan**.
 
----
+Karakter pendidikan yang ditampilkan melalui website Utama Insani menekankan:
 
-# 📖 Latar Belakang dan Karakter Sekolah
-
-Sebagai sekolah kejuruan, SMK Kesehatan Utama Insani diarahkan untuk memberikan pengalaman belajar yang lebih aplikatif kepada peserta didik.
-
-Karakter utama sekolah dapat dijelaskan melalui beberapa fokus berikut:
-
-### 1. Pendidikan kesehatan
-
-Pembelajaran diarahkan pada pengetahuan dan keterampilan yang berkaitan dengan dunia kesehatan, khususnya melalui program Keperawatan dan Farmasi.
-
-### 2. Kompetensi vokasional
-
-Peserta didik tidak hanya dituntut memahami teori, tetapi juga mengenal praktik dan keterampilan yang relevan dengan bidang keahlian.
-
-### 3. Pembentukan karakter
-
-Situs resmi sekolah menonjolkan nilai:
-
-> **Disiplin dan Jujur**
-
-serta:
-
-> **Ramah dan Santun**
-
-Nilai tersebut dapat dijadikan dasar pengembangan budaya sekolah dan etika peserta didik.
-
-### 4. Nilai Islami
-
-Visi dan misi sekolah secara eksplisit memasukkan penerapan serta penguatan nilai-nilai Islami dalam lingkungan pendidikan.
-
-### 5. Pendidikan holistik
-
-Sekolah berupaya mengintegrasikan pengetahuan akademik dengan kesehatan fisik, mental, spiritual, keterampilan sosial, kepemimpinan, dan pembentukan karakter.
-
----
-
-# 🎯 Visi
-
-> **“Menciptakan Lingkungan Pendidikan Yang Berkualitas, Berkarakter Dan Menjunjung Tinggi Nilai-Nilai Islami.”**
-
-Visi tersebut menunjukkan tiga arah besar pendidikan sekolah:
-
-- kualitas pendidikan;
+- pendidikan berkualitas;
 - pembentukan karakter;
-- penguatan nilai Islami.
-
----
-
-# 🚀 Misi
-
-Berdasarkan situs resmi Sekolah Utama Insani, misi yang dipublikasikan meliputi:
-
-1. Memberikan pendidikan berkualitas yang mengintegrasikan pengetahuan akademik dengan pemahaman tentang kesehatan fisik, mental, dan spiritual.
-2. Mendorong gaya hidup sehat melalui program pendidikan, olahraga, dan pola makan yang baik.
-3. Mengembangkan keterampilan sosial dan kepemimpinan siswa agar mampu menjadi anggota masyarakat yang bertanggung jawab.
-4. Menyediakan dukungan serta bimbingan untuk membantu penerapan nilai-nilai Islami pada siswa dan siswi.
-5. Menyediakan fasilitas serta sumber daya yang mendukung proses pembelajaran dan pengembangan siswa.
-6. Mendorong inovasi dalam pendidikan kesehatan, termasuk integrasi teknologi yang relevan.
-7. Melibatkan orang tua dan komunitas dalam peningkatan kualitas pendidikan yang berkarakter.
-
----
-
-# 💎 Nilai dan Budaya Sekolah
-
-Berdasarkan informasi yang ditampilkan pada website sekolah, dua nilai yang sangat menonjol adalah:
-
-## Disiplin dan Jujur
-
-Nilai ini dapat diterapkan dalam:
-
-- kehadiran;
-- ketepatan waktu;
-- kegiatan belajar;
-- pengerjaan tugas;
-- pelaksanaan praktikum;
-- penggunaan alat;
-- pelaporan hasil kegiatan;
-- penilaian;
-- hubungan antarwarga sekolah.
-
-## Ramah dan Santun
-
-Nilai ini menjadi penting khususnya untuk pendidikan kesehatan karena peserta didik nantinya akan berinteraksi dengan:
-
-- pasien;
-- keluarga pasien;
-- tenaga kesehatan;
-- masyarakat;
-- tenaga pendidik;
-- teman sebaya;
-- pihak industri.
-
----
-
-# 🩺 Program Keahlian
-
-Data referensi pendidikan Kemendikdasmen serta dokumentasi kegiatan sekolah menunjukkan keberadaan dua bidang program keahlian utama:
-
-### 1. Keperawatan
-
-Program yang berhubungan dengan keterampilan dasar layanan keperawatan dan pemahaman kebutuhan dasar manusia.
-
-### 2. Farmasi
-
-Program yang berhubungan dengan pengetahuan dan keterampilan dasar kefarmasian.
-
-> Penamaan konsentrasi/program keahlian dapat berubah mengikuti struktur Kurikulum Merdeka dan kebijakan pendidikan vokasi. Gunakan nama resmi terbaru dari sekolah ketika portfolio ini akan dipublikasikan secara resmi.
-
----
-
-# 👩‍⚕️ Program Keahlian Keperawatan
-
-Program Keperawatan dapat diposisikan sebagai salah satu identitas utama SMK Kesehatan Utama Insani.
-
-## Fokus kompetensi
-
-Secara portfolio, program ini dapat diperkenalkan melalui kompetensi seperti:
-
-- pemahaman dasar kesehatan;
-- kebutuhan dasar manusia;
-- dasar pelayanan keperawatan;
-- komunikasi dalam pelayanan;
-- keselamatan dan kebersihan;
-- observasi dasar kondisi pasien;
-- etika pelayanan kesehatan;
-- penggunaan perangkat praktik sesuai pembelajaran;
-- pengenalan tumbuh kembang;
-- pemahaman sistem tubuh manusia.
-
-### Aktivitas yang terdokumentasi sekolah
-
-Galeri resmi sekolah memuat aktivitas terkait Keperawatan seperti:
-
-- praktik KDM/sistem pernapasan;
-- ujian praktikum kelas XI Keperawatan;
-- penggunaan atau pengenalan *nursing kit*;
-- praktikum tumbuh kembang anak oleh kelas X Keperawatan;
-- cek kesehatan;
-- kunjungan industri bersama siswa Keperawatan dan Farmasi.
-
-Aktivitas tersebut memperlihatkan pendekatan pembelajaran yang tidak hanya berfokus pada teori.
-
----
-
-# 💊 Program Keahlian Farmasi
-
-Program Farmasi memberikan pembelajaran vokasional yang berkaitan dengan bidang kefarmasian.
-
-## Fokus kompetensi
-
-Untuk kebutuhan portfolio sekolah, program dapat diperkenalkan melalui:
-
-- pengenalan sediaan farmasi;
-- dasar formulasi;
-- pengenalan bahan;
-- dasar pelayanan kefarmasian;
-- penggunaan alat praktik;
-- ketelitian dalam proses kerja;
-- administrasi dasar farmasi;
-- keselamatan kerja;
-- etika profesi;
-- pengenalan bidang farmasi klinis dan komunitas.
-
-### Aktivitas yang terdokumentasi sekolah
-
-Website sekolah menampilkan beberapa kegiatan Farmasi, antara lain:
-
-- **Farmasi Day 2025**;
-- pembuatan *lip balm* dan balsam;
-- pengenalan/*unboxing tool kit* Farmasi & Klinis;
-- kegiatan cek kesehatan;
-- kunjungan industri bersama siswa Keperawatan;
-- aktivitas praktik lainnya yang berkaitan dengan pembelajaran Farmasi.
-
-Kegiatan tersebut dapat menjadi konten unggulan pada halaman **Program Keahlian Farmasi** di website portfolio.
-
----
-
-# 📚 Model Pembelajaran
-
-Portfolio sekolah dapat menjelaskan proses pembelajaran melalui kombinasi berikut:
-
-### Pembelajaran teori
-
-Memberikan dasar konseptual dan akademik sebelum peserta didik melakukan praktik.
-
-### Pembelajaran praktik
-
-Digunakan untuk membantu siswa memahami implementasi keterampilan vokasional.
-
-### Pembelajaran berbasis kegiatan
-
-Kegiatan sekolah dapat menjadi media pembentukan kompetensi sosial, komunikasi, dan kepemimpinan.
-
-### Kunjungan dan pengenalan dunia kerja
-
-Kunjungan industri memberikan pengalaman kepada siswa untuk mengenal lingkungan profesional secara lebih dekat.
-
-### Pendidikan karakter
-
-Kedisiplinan, kejujuran, keramahan, kesantunan, tanggung jawab, serta nilai Islami dikembangkan bersama proses pembelajaran.
-
----
-
-# 🔬 Praktikum dan Pembelajaran Terapan
-
-Berdasarkan dokumentasi kegiatan sekolah, contoh pembelajaran terapan yang dapat diangkat pada portfolio meliputi:
-
-| Bidang | Contoh Aktivitas |
-|---|---|
-| Keperawatan | KDM sistem pernapasan |
-| Keperawatan | Praktikum kelas XI |
-| Keperawatan | Praktikum tumbuh kembang anak |
-| Keperawatan | Pengenalan *nursing kit* |
-| Farmasi | Farmasi Day |
-| Farmasi | Pembuatan *lip balm* |
-| Farmasi | Pembuatan balsam |
-| Farmasi | Pengenalan *tool kit* Farmasi & Klinis |
-| Kesehatan | Pemeriksaan/cek kesehatan |
-| Karier | Kunjungan industri |
-
-Untuk website, setiap kegiatan sebaiknya memiliki:
-
-- judul kegiatan;
-- tanggal;
-- foto;
-- kelas/program;
-- tujuan kegiatan;
-- kompetensi yang dilatih;
-- hasil kegiatan;
-- pendamping/guru;
-- dokumentasi tambahan.
-
----
-
-# 🎓 Kegiatan Siswa
-
-Situs resmi sekolah menampilkan beberapa aktivitas pendidikan dan kesiswaan di lingkungan Utama Insani.
-
-Untuk SMK, bagian kegiatan dapat dikelompokkan menjadi:
-
-## Akademik dan praktik
-
-- praktikum Keperawatan;
-- praktikum Farmasi;
-- evaluasi praktik;
-- pembelajaran dengan *tool kit*;
-- kegiatan kesehatan.
-
-## Organisasi dan kepemimpinan
-
-Website sekolah juga memuat **LDKO** atau Latihan Dasar Kepemimpinan Organisasi.
-
-Kegiatan seperti ini dapat digunakan untuk memperkuat:
-
+- nilai-nilai Islami;
+- disiplin;
+- kejujuran;
+- keramahan;
+- kesantunan;
+- kesehatan fisik, mental, dan spiritual;
+- keterampilan sosial;
 - kepemimpinan;
-- kedisiplinan;
-- komunikasi;
-- kerja sama;
-- tanggung jawab;
-- kemampuan berorganisasi.
-
-## Kegiatan kesehatan
-
-Dokumentasi publik menampilkan aktivitas seperti:
-
-- pemeriksaan kesehatan;
-- kegiatan bersama Puskesmas Panongan;
-- kegiatan kesehatan siswa.
-
-## Kegiatan industri
-
-Dokumentasi juga memuat kunjungan industri siswa Keperawatan dan Farmasi.
+- inovasi dan teknologi;
+- keterlibatan orang tua dan komunitas.
 
 ---
 
-# 🧠 Pengembangan Karakter
+# ⚖️ Legalitas Yayasan
 
-Portfolio sekolah sebaiknya tidak hanya menampilkan kegiatan akademik.
-
-Pembentukan peserta didik dapat disajikan dalam empat aspek:
-
-### Knowledge
-
-Penguasaan pengetahuan umum dan kejuruan.
-
-### Skill
-
-Kemampuan praktik sesuai program keahlian.
-
-### Attitude
-
-Sikap profesional, ramah, santun, disiplin, dan bertanggung jawab.
-
-### Character
-
-Pembentukan karakter yang sejalan dengan nilai sekolah dan nilai Islami.
-
----
-
-# 🤝 Hubungan dengan Dunia Kesehatan dan Industri
-
-Pendidikan SMK idealnya memiliki kedekatan dengan dunia kerja.
-
-Dokumentasi sekolah telah menunjukkan aktivitas **kunjungan industri** bagi siswa Keperawatan dan Farmasi.
-
-Untuk pengembangan portfolio resmi, bagian ini dapat diperkuat dengan informasi yang telah mendapat izin sekolah, misalnya:
-
-- daftar mitra industri;
-- rumah sakit;
-- klinik;
-- apotek;
-- puskesmas;
-- institusi kesehatan;
-- institusi pendidikan tinggi;
-- tempat PKL;
-- mitra pelatihan;
-- mitra sertifikasi.
-
-> **Jangan memasukkan nama mitra yang belum dikonfirmasi secara resmi oleh sekolah.**
-
----
-
-# 🏢 Sarana dan Prasarana
-
-Data publik pendidikan menampilkan lahan sekolah milik sendiri dengan luas sekitar **4.000 m²** serta sumber listrik PLN.
-
-Namun, detail kondisi sarana pendidikan bersifat dinamis dan terdapat ketidakkonsistenan pencatatan pada agregator data publik. Karena itu, portfolio resmi sebaiknya menggunakan inventaris terbaru dari sekolah.
-
-Bagian fasilitas website dapat disiapkan untuk:
-
-- ruang kelas;
-- laboratorium Keperawatan;
-- laboratorium Farmasi;
-- ruang praktik;
-- perpustakaan;
-- ruang guru;
-- ruang administrasi;
-- ruang kepala sekolah;
-- area kegiatan siswa;
-- toilet;
-- tempat ibadah;
-- area parkir;
-- jaringan internet;
-- fasilitas pendukung lainnya.
-
-### Format konten fasilitas yang direkomendasikan
+Data resmi Verval Yayasan mencatat:
 
 ```text
-Nama Fasilitas
-Deskripsi singkat
-Fungsi
-Program/Jurusan pengguna
-Kapasitas
-Foto terbaru
-Status penggunaan
+Nama Yayasan:
+YAYASAN UTAMA INSANI PANONGAN
+
+NPYP:
+AM6287
+
+Nomor Pendirian Yayasan:
+01
+
+Tanggal Pendirian:
+01 Maret 2010
+
+SK Pengesahan Badan Hukum Menkumham:
+AHU-2087.AH.01.04.Tahun 2010
+
+Tanggal SK:
+31 Mei 2010
 ```
 
----
+## Ringkasan Legalitas
 
-# 🏅 Akreditasi dan Legalitas
-
-## Akreditasi
-
-Data BAN-PDM yang ditampilkan melalui portal data pendidikan menunjukkan:
-
-| Informasi | Data |
+| Komponen | Data |
 |---|---|
-| **Peringkat** | B |
-| **Tahun Penetapan** | 2023 |
-| **Nomor SK** | 582/BAN-SM/SK/2023 |
-| **Tanggal SK** | 28 April 2023 |
-| **Masa berlaku yang tercatat** | sampai 28 April 2028 |
-| **Nilai akhir yang ditampilkan** | 86 |
+| Bentuk organisasi | Yayasan |
+| NPYP | AM6287 |
+| Nomor pendirian | 01 |
+| Tanggal pendirian | 1 Maret 2010 |
+| Pengesahan badan hukum | AHU-2087.AH.01.04.Tahun 2010 |
+| Tanggal pengesahan | 31 Mei 2010 |
+| Status dalam sistem pendidikan | Badan penyelenggara satuan pendidikan |
 
-## Legalitas pendirian
-
-Data pendidikan publik mencatat:
-
-| Informasi | Data |
-|---|---|
-| **SK Pendirian** | 421-5/519-Dispendik/2012 |
-| **Tanggal** | 30 April 2012 |
-| **SK Operasional** | 421.5/519-DISPENDIK/2012 |
-| **Tanggal** | 30 April 2012 |
-
-Informasi legalitas sebaiknya diverifikasi kembali melalui dokumen resmi sekolah ketika digunakan untuk kebutuhan administrasi.
+> **Catatan penting:** Nomor akta notaris, nama notaris, perubahan akta, susunan Pembina-Pengurus-Pengawas terbaru, NPWP yayasan, NIB, dan dokumen legal lain tidak boleh diasumsikan apabila dokumen resminya belum tersedia.
 
 ---
 
-# 👥 Data Peserta Didik
+# 👤 Pimpinan dan Pengelola
 
-Portal data SMK yang bersumber dari data pendidikan pemerintah menampilkan snapshot:
+Data Verval Yayasan Kemendikdasmen saat ini menampilkan:
 
-- **149 peserta didik**
-- **8 siswa laki-laki**
-- **141 siswa perempuan**
-- **6 rombongan belajar**
+### Pimpinan Yayasan
 
-Distribusi yang ditampilkan:
+**R.M. Gutomo, S.E.**
 
-| Tingkat | Laki-laki | Perempuan | Total |
-|---|---:|---:|---:|
-| X | 1 | 37 | 38 |
-| XI | 2 | 53 | 55 |
-| XII | 5 | 51 | 56 |
-| **Total** | **8** | **141** | **149** |
+### Operator Yayasan
 
-> ⚠️ **Penting:** Statistik peserta didik adalah data dinamis dan dapat berubah setiap semester/tahun ajaran. Angka di atas harus diperlakukan sebagai **snapshot data publik**, bukan angka permanen.
+**Setyo Legowo Haryono**
 
----
+Data tersebut bersifat data publik yang tersimpan pada sistem Verval Yayasan.
 
-# 👨‍🏫 Tenaga Pendidik
+## Struktur organisasi lengkap
 
-Snapshot portal data pendidikan menampilkan:
-
-- **17 PTK**;
-- **12 guru**;
-- 3 guru laki-laki;
-- 9 guru perempuan.
-
-Data yang ditampilkan juga menyebut sebagian besar guru memiliki kualifikasi S1 dan terdapat guru yang telah bersertifikat.
-
-Karena data guru dapat berubah, website portfolio sebaiknya memuat daftar tenaga pendidik dari data internal sekolah yang terbaru.
-
-### Contoh format tampilan guru
+Untuk portfolio resmi, struktur organisasi sebaiknya disajikan dalam format:
 
 ```text
-Nama
-Jabatan
-Bidang / Mata Pelajaran
-Pendidikan Terakhir
-Foto Resmi
+PEMBINA
+   │
+   ├── Ketua Pembina
+   └── Anggota Pembina
+        │
+        ▼
+PENGURUS
+   │
+   ├── Ketua Yayasan
+   ├── Sekretaris
+   ├── Bendahara
+   └── Bidang-Bidang
+        │
+        ▼
+PENGAWAS
+        │
+        ▼
+UNIT / SATUAN PENDIDIKAN
+   ├── TK Utama Insani
+   ├── SDIT Utama Insani
+   ├── SMP Islam Plus Utama Insani
+   └── SMKS Kesehatan Utama Insani
 ```
 
-Untuk privasi, jangan menampilkan nomor pribadi, NIK, alamat rumah, atau informasi sensitif tenaga pendidik.
+> Nama-nama pada struktur di atas harus diisi berdasarkan **SK pengurus yayasan terbaru**, bukan berdasarkan asumsi.
 
 ---
 
-# 🏛️ Yayasan
+# 📍 Alamat dan Wilayah Operasional
 
-SMK Kesehatan Utama Insani berada di bawah **Yayasan Utama Insani**.
+Verval Yayasan mencatat alamat yayasan:
 
-Data Verval Yayasan yang ditampilkan portal pendidikan mencantumkan:
+**Graha Mitra Citra Blok H1 No. 8, Kecamatan Panongan, Kabupaten Tangerang, Provinsi Banten, 15710.**
 
-- **Nama:** Yayasan Utama Insani Panongan
-- **NPYP:** AM6287
-- **Wilayah:** Panongan, Kabupaten Tangerang, Banten
+Sementara website sekolah menampilkan lokasi kegiatan pendidikan utama di:
 
-Satuan pendidikan lain yang terhubung dalam ekosistem Utama Insani pada data publik antara lain:
+**Jl. AMD No. 9, Citra Raya, Kecamatan Panongan, Kabupaten Tangerang.**
 
-- TK Utama Insani;
-- SDIT Utama Insani;
-- SMP Islam Plus Utama Insani;
-- SMK Kesehatan Utama Insani.
+Perbedaan tersebut dapat dijelaskan sebagai kemungkinan perbedaan antara **alamat badan/yayasan pada data administratif** dan **alamat operasional satuan pendidikan**.
 
----
+Untuk website resmi, keduanya sebaiknya dipisahkan dengan jelas:
 
-# 💼 Prospek Lulusan
+### Kantor/Badan Yayasan
+Graha Mitra Citra Blok H1 No. 8  
+Panongan, Kabupaten Tangerang  
+Banten 15710
 
-Portfolio sekolah sebaiknya menjelaskan bahwa lulusan SMK memiliki beberapa jalur lanjutan.
-
-## Lulusan Keperawatan
-
-Secara umum dapat diarahkan untuk:
-
-- melanjutkan pendidikan ke perguruan tinggi;
-- memperoleh sertifikasi kompetensi yang relevan;
-- mengikuti rekrutmen pada posisi yang sesuai dengan kompetensi dan regulasi;
-- mengembangkan pengalaman kerja di bidang layanan pendukung kesehatan.
-
-## Lulusan Farmasi
-
-Dapat diarahkan untuk:
-
-- melanjutkan pendidikan di bidang Farmasi;
-- memperoleh sertifikasi sesuai bidang;
-- bekerja pada posisi pendukung di lingkungan kefarmasian sesuai ketentuan;
-- mengenal industri farmasi, alat kesehatan, kosmetik, dan bidang terkait.
-
-> **Catatan regulasi:** Portfolio tidak boleh memberikan kesan bahwa lulusan SMK otomatis memiliki kewenangan profesi yang menurut peraturan membutuhkan pendidikan, STR, sertifikasi, atau izin tertentu. Gunakan istilah “kompetensi pendukung” dan “sesuai regulasi yang berlaku” pada informasi karier.
-
----
-
-# 📍 Lokasi
-
-**SMK Kesehatan Utama Insani**  
-Jl. AMD No. 9 Panongan  
-Kecamatan Panongan  
-Kabupaten Tangerang  
-Provinsi Banten  
-Kode Pos 15710  
-Indonesia
-
-Koordinat yang dicantumkan portal data pendidikan:
-
-```text
-Latitude  : -6.2797
-Longitude : 106.5300
-```
-
-Pada website, bagian lokasi disarankan menyediakan:
-
-- alamat lengkap;
-- Google Maps;
-- tombol petunjuk arah;
-- landmark terdekat;
-- nomor kontak sekolah;
-- jam operasional.
+### Kompleks/Satuan Pendidikan
+Jl. AMD No. 9, Citra Raya  
+Panongan, Kabupaten Tangerang  
+Banten
 
 ---
 
 # ☎️ Kontak
 
-Situs resmi Sekolah Utama Insani saat ini menampilkan:
-
-| Jenis | Informasi |
-|---|---|
-| Admin | 0812 8758 3775 |
-| Operator | 0822 9592 5507 |
-| Email umum Yayasan/Sekolah | utamainsani@gmail.com |
-| Jam layanan | Senin–Jumat, 07.00–15.00 WIB |
-| Sabtu–Minggu | Libur |
-
-Data pendidikan publik juga menampilkan nomor telepon SMK:
+## Kontak Yayasan dalam Verval
 
 ```text
-0812 8121 1222
+Email:
+utamainsanipanongan@gmail.com
+
+Kode Pos:
+15710
 ```
 
-> Terdapat lebih dari satu kontak pada sumber publik. Untuk website resmi SMK, tentukan **satu nomor PPDB/administrasi utama** yang telah dikonfirmasi sekolah.
+## Kontak pada Website Utama Insani
+
+```text
+Admin:
+0812 8758 3775
+
+Operator:
+0822 9592 5507
+
+Email:
+utamainsani@gmail.com
+
+Jam Layanan:
+Senin – Jumat
+07.00 – 15.00 WIB
+
+Sabtu – Minggu:
+Libur
+```
+
+> Untuk portfolio resmi, bedakan kontak **Yayasan**, **Sekretariat Sekolah**, **PPDB/SPMB**, dan masing-masing **unit pendidikan**.
 
 ---
 
-# 📱 Media Sosial dan Kanal Informasi
+# 🎯 Visi Pendidikan
 
-Akun Instagram yang teridentifikasi sebagai akun SMK:
+Website Utama Insani menampilkan visi:
 
-**Instagram:** `@smkui.official`
+> **“Menciptakan Lingkungan Pendidikan Yang Berkualitas, Berkarakter Dan Menjunjung Tinggi Nilai-Nilai Islami.”**
 
-Bio publik akun tersebut menampilkan identitas SMK Kesehatan Utama Insani dan alamat di Jl. AMD 9, Citra Raya, Panongan, Kabupaten Tangerang.
+Visi tersebut dapat dipetakan ke tiga pilar besar:
 
-Website utama:
+### Berkualitas
+Pendidikan diarahkan pada proses pembelajaran dan pengembangan peserta didik yang bermutu.
 
-**https://www.utamainsani.sch.id**
+### Berkarakter
+Peserta didik tidak hanya diarahkan pada kemampuan akademik, tetapi juga sikap dan perilaku.
 
-Portfolio digital sebaiknya menyatukan seluruh kanal:
-
-- Website
-- Instagram
-- WhatsApp
-- YouTube jika tersedia
-- TikTok jika tersedia
-- Google Maps
-- Portal PPDB/SPMB
+### Islami
+Nilai-nilai Islami menjadi bagian dari identitas pendidikan yang dibangun.
 
 ---
 
-# 🖥️ Konsep Website Portfolio
+# 🚀 Misi Pendidikan
 
-Website portfolio SMK Kesehatan Utama Insani sebaiknya memiliki karakter:
+Website Utama Insani mempublikasikan misi pendidikan sebagai berikut:
 
-- profesional;
-- bersih;
-- modern;
-- ramah;
-- bernuansa kesehatan;
-- mudah digunakan siswa dan orang tua;
-- responsif;
-- mudah diakses melalui ponsel.
+1. Memberikan pendidikan berkualitas yang mengintegrasikan pengetahuan akademik dengan pemahaman kesehatan fisik, mental, dan spiritual.
+2. Mendorong gaya hidup sehat melalui program pendidikan, olahraga, dan pola makan yang baik.
+3. Mengembangkan keterampilan sosial dan kepemimpinan agar siswa menjadi anggota masyarakat yang bertanggung jawab.
+4. Menyediakan dukungan dan bimbingan untuk penerapan nilai-nilai Islami pada siswa.
+5. Menyediakan fasilitas serta sumber daya untuk mendukung pembelajaran dan pengembangan peserta didik.
+6. Mendorong inovasi dalam pendidikan kesehatan, termasuk integrasi teknologi yang relevan.
+7. Melibatkan orang tua dan komunitas dalam peningkatan kualitas pendidikan berkarakter.
 
-## Tujuan website
+---
 
-1. Menjadi pusat informasi sekolah.
-2. Menampilkan identitas dan keunggulan SMK.
-3. Menjelaskan program Keperawatan dan Farmasi.
-4. Mendukung informasi penerimaan siswa baru.
-5. Menampilkan kegiatan dan prestasi.
-6. Menampilkan fasilitas.
-7. Menjadi media komunikasi sekolah dengan masyarakat.
-8. Meningkatkan kredibilitas digital sekolah.
-9. Menjadi dokumentasi kegiatan.
-10. Mendukung publikasi program dan kerja sama.
+# 💎 Nilai Utama
+
+Website Utama Insani secara eksplisit menonjolkan:
+
+## Disiplin dan Jujur
+
+Nilai yang dapat ditanamkan melalui:
+
+- ketepatan waktu;
+- kepatuhan pada tata tertib;
+- kejujuran akademik;
+- tanggung jawab;
+- kejujuran dalam komunikasi;
+- integritas;
+- konsistensi perilaku.
+
+## Ramah dan Santun
+
+Nilai ini dapat diterapkan dalam:
+
+- komunikasi guru dan siswa;
+- hubungan antarsiswa;
+- pelayanan kepada orang tua;
+- interaksi dengan masyarakat;
+- komunikasi pada kegiatan organisasi;
+- kegiatan praktik dan profesional.
+
+---
+
+# 🕰️ Perkembangan Yayasan
+
+Berdasarkan data legal yayasan dan tanggal dokumen pendirian/operasional satuan pendidikan yang tercatat pada Kemendikdasmen, perkembangan Yayasan Utama Insani Panongan dapat digambarkan sebagai berikut.
+
+## 2010 — Pendirian Yayasan
+
+**1 Maret 2010**  
+Yayasan Utama Insani Panongan tercatat didirikan.
+
+**31 Mei 2010**  
+Badan hukum yayasan memperoleh pengesahan melalui:
+
+```text
+AHU-2087.AH.01.04.Tahun 2010
+```
+
+## 2011 — TK Utama Insani
+
+TK Utama Insani tercatat memiliki SK operasional:
+
+```text
+421.1/683/Dispendik/2011
+Tanggal: 13 Desember 2011
+```
+
+## 2012 — SMK Kesehatan Utama Insani
+
+SMKS Kesehatan Utama Insani tercatat memiliki SK pendirian dan operasional:
+
+```text
+421-5/519-Dispendik/2012
+Tanggal: 30 April 2012
+```
+
+## 2019 — SDIT Utama Insani
+
+SDIT Utama Insani tercatat melalui:
+
+```text
+421.1/752-DISDIK
+Tanggal: 30 Desember 2019
+```
+
+## 2021 — SMP Islam Plus Utama Insani
+
+SMP Islam Plus Utama Insani tercatat melalui:
+
+```text
+421.3/4281-Disdik
+Tanggal: 27 Desember 2021
+```
+
+## Timeline
+
+```text
+2010
+│
+├── Yayasan Utama Insani Panongan
+│   └── Pengesahan Badan Hukum
+│
+2011
+├── TK Utama Insani
+│
+2012
+├── SMKS Kesehatan Utama Insani
+│
+2019
+├── SDIT Utama Insani
+│
+2021
+└── SMP Islam Plus Utama Insani
+```
+
+Timeline di atas merupakan **rekonstruksi berdasarkan tanggal legalitas publik**, bukan narasi sejarah resmi yayasan.
+
+---
+
+# 🏫 Satuan Pendidikan di Bawah Yayasan
+
+Verval Yayasan mencatat empat satuan pendidikan berikut:
+
+| No. | Satuan Pendidikan | NPSN | Jenjang | Lokasi |
+|---:|---|---|---|---|
+| 1 | TK Utama Insani | 20616556 | TK | Panongan, Kab. Tangerang |
+| 2 | SDIT Utama Insani | 70001964 | SD | Panongan, Kab. Tangerang |
+| 3 | SMP Islam Plus Utama Insani | 70023849 | SMP | Panongan, Kab. Tangerang |
+| 4 | SMKS Kesehatan Utama Insani | 20623127 | SMK | Panongan, Kab. Tangerang |
+
+---
+
+# 🧒 TK Utama Insani
+
+## Identitas
+
+| Informasi | Data |
+|---|---|
+| Nama | TK Utama Insani |
+| NPSN | 20616556 |
+| Jenjang | TK / PAUD |
+| Status | Swasta |
+| Naungan | Yayasan Utama Insani Panongan |
+| NPYP | AM6287 |
+| Alamat | Jl. AMD No. 9, Panongan |
+| Kecamatan | Panongan |
+| Kabupaten | Tangerang |
+| Provinsi | Banten |
+
+## Dokumen operasional publik
+
+```text
+Nomor SK Operasional:
+421.1/683/Dispendik/2011
+
+Tanggal:
+13 Desember 2011
+```
+
+## Peran dalam ekosistem yayasan
+
+TK menjadi tahap awal pendidikan di lingkungan Utama Insani dengan fokus yang secara umum dapat diarahkan pada:
+
+- pembentukan karakter awal;
+- kesiapan belajar;
+- aktivitas motorik;
+- pengembangan bahasa;
+- interaksi sosial;
+- nilai agama;
+- kreativitas.
+
+---
+
+# 📘 SDIT Utama Insani
+
+## Identitas
+
+| Informasi | Data |
+|---|---|
+| Nama | SDIT Utama Insani |
+| NPSN | 70001964 |
+| Jenjang | SD |
+| Status | Swasta |
+| Naungan | Yayasan Utama Insani Panongan |
+| NPYP | AM6287 |
+| Alamat | Jl. AMD No. 9 Panongan |
+| Kecamatan | Panongan |
+| Kabupaten | Tangerang |
+| Provinsi | Banten |
+
+## Dokumen publik
+
+```text
+SK Pendirian:
+421.1/752-DISDIK
+
+Tanggal:
+30 Desember 2019
+
+SK Operasional:
+421.1/752-DISDIK
+
+Tanggal:
+30 Desember 2019
+```
+
+## Posisi dalam ekosistem
+
+SDIT menjadi tahap pendidikan dasar yang dapat memperkuat:
+
+- kemampuan literasi;
+- numerasi;
+- pengetahuan dasar;
+- pendidikan karakter;
+- pendidikan Islami;
+- keterampilan sosial;
+- kesiapan menuju pendidikan menengah.
+
+---
+
+# 📗 SMP Islam Plus Utama Insani
+
+## Identitas
+
+| Informasi | Data |
+|---|---|
+| Nama | SMP Islam Plus Utama Insani |
+| NPSN | 70023849 |
+| Jenjang | SMP |
+| Status | Swasta |
+| Naungan | Yayasan Utama Insani Panongan |
+| NPYP | AM6287 |
+| Alamat | Jl. AMD No. 9 RT 002 RW 004 |
+| Kecamatan | Panongan |
+| Kabupaten | Tangerang |
+| Provinsi | Banten |
+
+## Dokumen publik
+
+```text
+SK Pendirian:
+421.3/4281-Disdik
+
+Tanggal:
+27 Desember 2021
+
+SK Operasional:
+421.3/4281-Disdik
+
+Tanggal:
+27 Desember 2021
+```
+
+## Posisi dalam ekosistem
+
+SMP Islam Plus menjadi penghubung antara pendidikan dasar dan pendidikan menengah.
+
+Portfolio unit ini dapat menonjolkan:
+
+- akademik;
+- penguatan nilai Islami;
+- kepemimpinan;
+- kegiatan organisasi;
+- kedisiplinan;
+- pengembangan minat dan bakat;
+- kesiapan menuju SMA/SMK.
+
+---
+
+# 🩺 SMKS Kesehatan Utama Insani
+
+## Identitas
+
+| Informasi | Data |
+|---|---|
+| Nama | SMKS Kesehatan Utama Insani |
+| NPSN | 20623127 |
+| Jenjang | SMK |
+| Status | Swasta |
+| Naungan | Yayasan Utama Insani Panongan |
+| NPYP | AM6287 |
+| Alamat | Jl. AMD No. 9 Panongan |
+| Kecamatan | Panongan |
+| Kabupaten | Tangerang |
+| Provinsi | Banten |
+| Kode Pos | 15710 |
+
+## Dokumen publik
+
+```text
+SK Pendirian:
+421-5/519-Dispendik/2012
+
+Tanggal:
+30 April 2012
+```
+
+## Fokus pendidikan
+
+SMK Kesehatan Utama Insani menjadi unit pendidikan vokasional pada ekosistem yayasan.
+
+Dokumentasi publik menunjukkan bidang pendidikan:
+
+- Keperawatan;
+- Farmasi.
+
+Aktivitas yang terdokumentasi antara lain:
+
+- praktik Keperawatan;
+- praktik Farmasi;
+- KDM sistem pernapasan;
+- praktikum tumbuh kembang anak;
+- Farmasi Day;
+- pembuatan lip balm dan balsam;
+- nursing kit;
+- tool kit Farmasi dan Klinis;
+- pemeriksaan kesehatan;
+- kunjungan industri.
+
+---
+
+# 🌐 Ekosistem Pendidikan Utama Insani
+
+Secara jenjang, ekosistem Yayasan Utama Insani dapat divisualisasikan sebagai berikut:
+
+```text
+                 YAYASAN UTAMA INSANI PANONGAN
+                              │
+       ┌──────────────────────┼──────────────────────┐
+       │                      │                      │
+       ▼                      ▼                      ▼
+ TK UTAMA INSANI      SDIT UTAMA INSANI    SMP ISLAM PLUS
+       │                      │                UTAMA INSANI
+       │                      │                      │
+       └──────────────────────┴──────────────────────┘
+                              │
+                              ▼
+                 SMKS KESEHATAN UTAMA INSANI
+                              │
+                    ┌─────────┴─────────┐
+                    ▼                   ▼
+              KEPERAWATAN            FARMASI
+```
+
+Hal ini memungkinkan yayasan membangun kesinambungan pendidikan dari usia dini sampai pendidikan vokasional.
+
+---
+
+# 🧭 Arah Pendidikan
+
+Berdasarkan visi dan misi yang dipublikasikan, arah pendidikan Utama Insani dapat dirangkum dalam enam pilar.
+
+## 1. Academic Excellence
+
+Mendorong kualitas pembelajaran dan pemahaman akademik.
+
+## 2. Islamic Character
+
+Menanamkan nilai-nilai Islami dalam proses pendidikan.
+
+## 3. Health Awareness
+
+Membangun kesadaran kesehatan fisik, mental, dan spiritual.
+
+## 4. Leadership
+
+Mengembangkan kemampuan sosial dan kepemimpinan.
+
+## 5. Innovation
+
+Mengintegrasikan teknologi dan inovasi yang relevan.
+
+## 6. Community Engagement
+
+Melibatkan orang tua dan komunitas dalam pendidikan.
+
+---
+
+# 🏢 Peran Yayasan
+
+Sebagai badan penyelenggara pendidikan, portfolio yayasan dapat menjelaskan fungsi strategis dalam ruang lingkup berikut.
+
+### Governance
+
+- menetapkan arah organisasi;
+- menjaga keberlanjutan satuan pendidikan;
+- membangun kebijakan umum;
+- memastikan pengelolaan sesuai legalitas.
+
+### Education Development
+
+- mendukung peningkatan mutu pendidikan;
+- membantu pengembangan program sekolah;
+- mendorong inovasi;
+- mendukung fasilitas pembelajaran.
+
+### Human Resources
+
+- mendukung pengelolaan tenaga pendidik dan kependidikan;
+- pengembangan kompetensi;
+- budaya kerja;
+- pembinaan organisasi.
+
+### Infrastructure
+
+- mendukung pengembangan sarana dan prasarana;
+- pemeliharaan fasilitas;
+- pengembangan lingkungan pembelajaran.
+
+### Community Relations
+
+- membangun hubungan dengan orang tua;
+- masyarakat;
+- dunia usaha;
+- dunia industri;
+- institusi kesehatan;
+- pemerintah;
+- mitra pendidikan.
+
+> Rincian kewenangan aktual harus disesuaikan dengan AD/ART, struktur organisasi, SK pengurus, dan kebijakan internal yayasan.
+
+---
+
+# 🧩 Tata Kelola yang Direkomendasikan
+
+Untuk portal dan dokumentasi organisasi, struktur tata kelola dapat dipisahkan menjadi:
+
+```text
+YAYASAN
+│
+├── Pembina
+├── Pengurus
+├── Pengawas
+│
+├── Sekretariat Yayasan
+│
+├── Bidang Pendidikan
+├── Bidang SDM
+├── Bidang Keuangan
+├── Bidang Sarana Prasarana
+├── Bidang Humas / Kemitraan
+│
+└── Satuan Pendidikan
+    ├── TK
+    ├── SDIT
+    ├── SMP Islam Plus
+    └── SMK Kesehatan
+```
+
+Struktur tersebut adalah **rancangan dokumentasi**, bukan klaim bahwa seluruh jabatan tersebut saat ini ada di Yayasan Utama Insani.
+
+---
+
+# 🔄 Hubungan Yayasan dan Satuan Pendidikan
+
+Model hubungan yang ideal untuk ditampilkan di website:
+
+```text
+YAYASAN
+   ↓
+Arah & Kebijakan
+   ↓
+KEPALA SATUAN PENDIDIKAN
+   ↓
+WAKIL / KOORDINATOR
+   ↓
+GURU & TENAGA KEPENDIDIKAN
+   ↓
+PESERTA DIDIK
+   ↓
+ORANG TUA & KOMUNITAS
+```
+
+Yayasan berfungsi sebagai pemilik arah kelembagaan, sedangkan pengelolaan akademik sehari-hari dilakukan pada masing-masing satuan pendidikan sesuai peraturan dan kewenangannya.
+
+---
+
+# 🌱 Pengembangan Peserta Didik
+
+Portfolio yayasan dapat menampilkan pengembangan peserta didik dalam kerangka:
+
+## Akademik
+
+- literasi;
+- numerasi;
+- pengetahuan;
+- kemampuan berpikir kritis.
+
+## Keagamaan
+
+- pembentukan akhlak;
+- nilai Islami;
+- pembiasaan positif.
+
+## Karakter
+
+- disiplin;
+- jujur;
+- santun;
+- tanggung jawab.
+
+## Sosial
+
+- komunikasi;
+- kerja sama;
+- organisasi;
+- kepemimpinan.
+
+## Kesehatan
+
+- gaya hidup sehat;
+- olahraga;
+- kesadaran kesehatan;
+- kesehatan mental dan spiritual.
+
+## Vokasional
+
+Khusus SMK:
+
+- Keperawatan;
+- Farmasi;
+- praktik;
+- kesiapan pendidikan lanjut dan dunia kerja.
+
+---
+
+# 🎓 Kegiatan dan Budaya Pendidikan
+
+Website Utama Insani mendokumentasikan berbagai aktivitas yang dapat diklasifikasikan menjadi:
+
+### Pendidikan
+- proses pembelajaran;
+- praktikum;
+- ujian praktik.
+
+### Kepemimpinan
+- LDKO;
+- kegiatan organisasi.
+
+### Kesehatan
+- pemeriksaan kesehatan;
+- kegiatan kesehatan peserta didik.
+
+### Kejuruan
+- Keperawatan;
+- Farmasi;
+- tool kit;
+- praktikum.
+
+### Industri
+- kunjungan industri.
+
+### Pengembangan Karakter
+- kedisiplinan;
+- tanggung jawab;
+- kerja sama;
+- kesantunan.
+
+---
+
+# 💻 Digitalisasi Yayasan
+
+Yayasan dengan empat satuan pendidikan akan lebih kuat apabila memiliki **portal terpadu**.
+
+## Konsep
+
+```text
+PORTAL UTAMA INSANI
+│
+├── Yayasan
+│
+├── TK
+│
+├── SDIT
+│
+├── SMP Islam Plus
+│
+└── SMK Kesehatan
+```
+
+## Single Website Architecture
+
+Domain utama:
+
+```text
+utamainsani.sch.id
+```
+
+Contoh struktur:
+
+```text
+utamainsani.sch.id/
+├── yayasan
+├── tk
+├── sdit
+├── smp
+├── smk
+├── berita
+├── galeri
+├── ppdb
+└── kontak
+```
+
+Atau menggunakan subdomain:
+
+```text
+tk.utamainsani.sch.id
+sd.utamainsani.sch.id
+smp.utamainsani.sch.id
+smk.utamainsani.sch.id
+```
+
+---
+
+# 🖥️ Konsep Website Yayasan
+
+## Hero Section
+
+```text
+YAYASAN UTAMA INSANI PANONGAN
+
+Membangun Ekosistem Pendidikan
+Berkualitas, Berkarakter,
+dan Menjunjung Tinggi Nilai-Nilai Islami.
+
+TK • SDIT • SMP Islam Plus • SMK Kesehatan
+```
+
+CTA:
+
+```text
+[ Tentang Yayasan ]
+[ Lihat Satuan Pendidikan ]
+```
 
 ---
 
 # 🗂️ Struktur Halaman Website
 
-## 1. Home
-
-Isi:
-
-- hero/banner sekolah;
-- nama sekolah;
-- slogan;
-- CTA “Daftar Sekarang”;
-- CTA “Lihat Program Keahlian”;
-- profil singkat;
-- statistik sekolah;
-- program Keperawatan;
-- program Farmasi;
-- berita terbaru;
-- galeri kegiatan;
-- testimoni;
-- lokasi;
-- kontak.
-
-## 2. Profil Sekolah
-
-Submenu:
+## Navbar
 
 ```text
-Profil
-├── Tentang Sekolah
+Home
+Tentang
+├── Profil Yayasan
 ├── Sejarah
 ├── Visi & Misi
-├── Identitas Sekolah
-├── Sambutan Kepala Sekolah
+├── Legalitas
 ├── Struktur Organisasi
-├── Guru & Tenaga Kependidikan
-└── Akreditasi
+└── Pimpinan
+
+Satuan Pendidikan
+├── TK Utama Insani
+├── SDIT Utama Insani
+├── SMP Islam Plus Utama Insani
+└── SMK Kesehatan Utama Insani
+
+Program
+Berita
+Kegiatan
+Galeri
+Prestasi
+PPDB / SPMB
+Karier
+Kontak
 ```
-
-## 3. Program Keahlian
-
-```text
-Program Keahlian
-├── Keperawatan
-└── Farmasi
-```
-
-Masing-masing berisi:
-
-- deskripsi;
-- kompetensi;
-- kegiatan praktik;
-- fasilitas;
-- prospek studi;
-- galeri;
-- FAQ.
-
-## 4. Akademik
-
-```text
-Akademik
-├── Kurikulum
-├── Kalender Akademik
-├── Jadwal
-├── Praktikum
-└── PKL
-```
-
-## 5. Kesiswaan
-
-```text
-Kesiswaan
-├── OSIS
-├── Ekstrakurikuler
-├── LDKO
-├── Kegiatan Kerohanian
-├── Kegiatan Kesehatan
-└── Prestasi
-```
-
-## 6. Berita
-
-Kategori:
-
-- Akademik
-- Keperawatan
-- Farmasi
-- Kesiswaan
-- Prestasi
-- Kunjungan
-- Pengumuman
-
-## 7. Galeri
-
-Filter:
-
-- Keperawatan
-- Farmasi
-- Kegiatan Siswa
-- Kunjungan Industri
-- Event
-- PPDB/SPMB
-
-## 8. PPDB / SPMB
-
-Isi:
-
-- tahun ajaran;
-- program yang dibuka;
-- syarat;
-- alur pendaftaran;
-- jadwal;
-- biaya yang telah disahkan;
-- formulir;
-- kontak panitia;
-- FAQ.
-
-## 9. Alumni
-
-Isi:
-
-- cerita alumni;
-- tujuan setelah lulus;
-- perguruan tinggi;
-- karier;
-- kegiatan alumni.
-
-Gunakan hanya data alumni yang telah mendapat persetujuan.
-
-## 10. Kontak
-
-- alamat;
-- peta;
-- nomor resmi;
-- email;
-- WhatsApp;
-- jam layanan;
-- formulir kontak.
 
 ---
 
-# ⚙️ Fitur Website yang Disarankan
+# ⚙️ Fitur Portal Yayasan
 
-## Fitur publik
+## Publik
 
-- responsive navigation;
-- slider/banner;
-- profil sekolah;
-- program keahlian;
+- profil yayasan;
+- legalitas;
+- sejarah;
+- pimpinan;
+- struktur organisasi;
+- unit sekolah;
 - berita;
-- pengumuman;
+- kegiatan;
 - galeri;
-- agenda;
 - prestasi;
-- data guru;
-- formulir kontak;
-- Google Maps;
-- tombol WhatsApp;
-- informasi PPDB/SPMB;
-- pencarian.
+- PPDB terpadu;
+- kalender;
+- agenda;
+- pengumuman;
+- lowongan;
+- kontak;
+- lokasi;
+- formulir pesan.
 
-## Fitur admin
+## Admin
 
-- login admin;
-- dashboard;
+- dashboard yayasan;
+- manajemen satuan pendidikan;
 - CRUD berita;
-- CRUD pengumuman;
+- CRUD kegiatan;
 - CRUD galeri;
-- CRUD agenda;
-- CRUD guru;
-- CRUD program keahlian;
 - CRUD prestasi;
+- CRUD pimpinan;
+- CRUD legalitas;
 - CRUD fasilitas;
 - pengelolaan PPDB;
-- pengelolaan pesan masuk;
-- pengaturan kontak;
-- pengaturan media sosial;
-- manajemen user;
-- role & permission.
+- user management;
+- role-based access;
+- audit log.
 
-## Role yang disarankan
+## Role
 
-### Super Admin
-
-Akses seluruh modul.
-
-### Admin Sekolah
-
-Mengelola konten umum sekolah.
-
-### Admin PPDB
-
-Mengelola informasi dan pendaftaran.
-
-### Humas
-
-Mengelola berita, galeri, dan publikasi.
-
-### Guru/Editor
-
-Mengirim atau memperbarui konten sesuai kewenangan.
+```text
+Super Admin Yayasan
+Admin Yayasan
+Admin TK
+Admin SD
+Admin SMP
+Admin SMK
+Humas
+PPDB
+Editor
+Viewer
+```
 
 ---
 
 # 🧱 Struktur Repository
 
-Contoh jika portfolio dikembangkan menjadi website:
-
 ```text
-smk-kesehatan-utama-insani/
+utama-insani-foundation/
 │
 ├── README.md
 │
@@ -918,489 +1033,299 @@ smk-kesehatan-utama-insani/
 │   └── sitemap.xml
 │
 ├── assets/
-│   ├── images/
-│   │   ├── logo/
-│   │   ├── hero/
-│   │   ├── sekolah/
-│   │   ├── guru/
-│   │   ├── keperawatan/
-│   │   ├── farmasi/
-│   │   ├── fasilitas/
-│   │   ├── kegiatan/
-│   │   └── prestasi/
-│   │
-│   ├── icons/
-│   └── documents/
+│   ├── logo/
+│   ├── yayasan/
+│   ├── tk/
+│   ├── sdit/
+│   ├── smp/
+│   ├── smk/
+│   ├── kegiatan/
+│   ├── prestasi/
+│   └── fasilitas/
 │
 ├── src/
 │   ├── components/
-│   ├── pages/
 │   ├── layouts/
+│   ├── pages/
+│   │   ├── yayasan/
+│   │   ├── tk/
+│   │   ├── sd/
+│   │   ├── smp/
+│   │   └── smk/
 │   ├── data/
 │   └── styles/
 │
 └── docs/
-    ├── school-profile.md
+    ├── legalitas/
+    ├── profile/
     ├── content-guideline.md
     └── privacy-policy.md
 ```
 
 ---
 
-# 🎨 Identitas Visual
+# 🔐 Keamanan dan Privasi
 
-Untuk portfolio bidang kesehatan, desain dapat menggunakan nuansa visual:
+Karena portal yayasan melibatkan data anak dan peserta didik, pengelolaan informasi harus memperhatikan privasi.
 
-- biru;
-- hijau;
-- putih;
-- aksen warna dari logo resmi sekolah.
+## Jangan tampilkan secara publik
 
-## Prinsip visual
+- NIK;
+- NISN lengkap;
+- alamat rumah siswa;
+- nomor pribadi siswa;
+- data kesehatan pribadi;
+- dokumen keluarga;
+- nilai individual;
+- data finansial keluarga;
+- password;
+- dokumen identitas guru/staf.
 
-### Clean
+## Kontrol sistem
 
-Tampilan tidak terlalu ramai.
-
-### Professional
-
-Mampu memberikan kesan sebagai institusi pendidikan kesehatan.
-
-### Friendly
-
-Cocok untuk siswa SMP, orang tua, dan masyarakat.
-
-### Accessible
-
-Teks memiliki kontras yang jelas.
-
-### Responsive
-
-Tampilan nyaman pada:
-
-- desktop;
-- laptop;
-- tablet;
-- smartphone.
-
-> Warna final harus mengikuti logo dan pedoman identitas sekolah apabila sekolah memiliki *brand guideline* resmi.
-
----
-
-# 🖼️ Standar Konten dan Foto
-
-Website sekolah sebaiknya menggunakan foto asli dengan kualitas baik.
-
-## Prioritas foto
-
-1. Tampak sekolah.
-2. Siswa belajar.
-3. Praktikum Keperawatan.
-4. Praktikum Farmasi.
-5. Guru.
-6. Fasilitas.
-7. Kegiatan organisasi.
-8. Kunjungan industri.
-9. Kegiatan kesehatan.
-10. Prestasi.
-
-## Hindari
-
-- foto buram;
-- foto dari internet yang bukan milik sekolah;
-- foto siswa tanpa izin penggunaan;
-- dokumen pribadi yang terlihat;
-- kartu siswa;
-- nomor telepon siswa;
-- data kesehatan siswa;
-- nilai individu;
-- informasi keluarga.
+- HTTPS;
+- hashed password;
+- RBAC;
+- audit log;
+- rate limiting;
+- validation upload;
+- backup;
+- MFA untuk admin utama;
+- session timeout;
+- least privilege;
+- maintenance rutin.
 
 ---
 
 # 🔍 SEO dan Metadata
 
-Contoh metadata:
-
 ```html
-<title>SMK Kesehatan Utama Insani | SMK Keperawatan & Farmasi Tangerang</title>
+<title>
+Yayasan Utama Insani Panongan | Pendidikan Islam di Tangerang
+</title>
 
 <meta
   name="description"
-  content="Profil SMK Kesehatan Utama Insani, sekolah menengah kejuruan bidang kesehatan di Panongan, Kabupaten Tangerang, dengan program Keperawatan dan Farmasi."
+  content="Profil Yayasan Utama Insani Panongan, badan penyelenggara TK Utama Insani, SDIT Utama Insani, SMP Islam Plus Utama Insani, dan SMKS Kesehatan Utama Insani di Kabupaten Tangerang."
 />
 
 <meta
   name="keywords"
-  content="SMK Kesehatan Tangerang, SMK Keperawatan Tangerang, SMK Farmasi Tangerang, SMK Utama Insani, SMK Panongan"
+  content="Yayasan Utama Insani Panongan, Utama Insani Tangerang, Sekolah Utama Insani, TK Utama Insani, SDIT Utama Insani, SMP Islam Plus Utama Insani, SMK Kesehatan Utama Insani"
 />
 ```
 
-## Kata kunci yang relevan
-
-```text
-SMK Kesehatan Utama Insani
-SMK Kesehatan Tangerang
-SMK Keperawatan Tangerang
-SMK Farmasi Tangerang
-SMK Panongan
-Sekolah Kesehatan Panongan
-SMK Citra Raya
-SMK Kesehatan Banten
-```
-
 ---
 
-# 🔐 Keamanan dan Privasi
+# 📋 Data yang Masih Perlu Dilengkapi
 
-Website sekolah menangani informasi yang berhubungan dengan siswa sehingga privasi harus menjadi bagian penting dari pengembangan.
+Untuk menghasilkan **profil yayasan 100% resmi**, data berikut perlu diminta langsung dari Yayasan Utama Insani Panongan:
 
-## Data yang tidak boleh ditampilkan secara publik tanpa dasar yang jelas
+## Sejarah
 
-- NIK;
-- NISN lengkap;
-- alamat rumah;
-- nomor pribadi siswa;
-- data kesehatan individual;
-- nilai siswa;
-- dokumen identitas;
-- data keluarga;
-- tanggal lahir lengkap bila tidak diperlukan;
-- kredensial akun;
-- password.
+- [ ] cerita awal pendirian;
+- [ ] nama pendiri;
+- [ ] latar belakang pendirian;
+- [ ] alasan memilih bidang pendidikan;
+- [ ] perkembangan tiap periode;
+- [ ] milestone resmi.
 
-## Praktik keamanan yang disarankan
+## Legalitas
 
-- HTTPS;
-- password di-*hash*;
-- role-based access control;
-- validasi file upload;
-- pembatasan tipe file;
-- backup database;
-- audit log;
-- rate limiting;
-- CAPTCHA pada formulir publik;
-- session timeout;
-- pembaruan sistem secara rutin;
-- principle of least privilege.
+- [ ] salinan akta pendirian;
+- [ ] nama notaris;
+- [ ] nomor akta notaris;
+- [ ] akta perubahan terbaru;
+- [ ] NPWP;
+- [ ] NIB bila ada;
+- [ ] AD/ART;
+- [ ] SK pengurus terbaru.
 
----
+## Struktur
 
-# 🗺️ Konsep User Journey
+- [ ] Pembina;
+- [ ] Ketua Pembina;
+- [ ] Pengurus;
+- [ ] Ketua Yayasan;
+- [ ] Sekretaris;
+- [ ] Bendahara;
+- [ ] Pengawas;
+- [ ] kepala bidang;
+- [ ] sekretariat.
 
-## Calon siswa
-
-```text
-Google / Instagram
-        ↓
-Landing Page
-        ↓
-Program Keahlian
-        ↓
-Fasilitas & Kegiatan
-        ↓
-Informasi PPDB
-        ↓
-Daftar / Hubungi Admin
-```
-
-## Orang tua
-
-```text
-Landing Page
-        ↓
-Profil Sekolah
-        ↓
-Akreditasi
-        ↓
-Program Keahlian
-        ↓
-Fasilitas
-        ↓
-Biaya & PPDB
-        ↓
-Kontak Sekolah
-```
-
-## Siswa aktif
-
-```text
-Website
-   ↓
-Pengumuman
-   ↓
-Agenda
-   ↓
-Informasi Akademik
-   ↓
-Kegiatan
-```
-
----
-
-# 📊 Rekomendasi Section Beranda
-
-Urutan yang disarankan:
-
-```text
-01. Navbar
-02. Hero Banner
-03. Tentang Sekolah
-04. Sambutan Kepala Sekolah
-05. Statistik Ringkas
-06. Program Keahlian
-07. Keunggulan Sekolah
-08. Kegiatan Praktik
-09. Fasilitas
-10. Berita Terbaru
-11. Prestasi
-12. Galeri
-13. Testimoni
-14. PPDB CTA
-15. Lokasi
-16. Footer
-```
-
----
-
-# 📝 Contoh Hero Website
-
-```text
-SMK KESEHATAN UTAMA INSANI
-
-Membangun Generasi Berkualitas, Berkarakter,
-Terampil, dan Menjunjung Tinggi Nilai-Nilai Islami.
-
-Program Keahlian:
-Keperawatan • Farmasi
-
-[ Lihat Profil ] [ Informasi PPDB ]
-```
-
----
-
-# 🩺 Contoh Section Keperawatan
-
-```text
-PROGRAM KEPERAWATAN
-
-Membangun dasar pengetahuan, keterampilan,
-sikap, disiplin, dan komunikasi yang dibutuhkan
-dalam lingkungan pelayanan kesehatan.
-
-✓ Pembelajaran Teori
-✓ Praktikum
-✓ Nursing Kit
-✓ Kegiatan Kesehatan
-✓ Kunjungan Industri
-```
-
----
-
-# 💊 Contoh Section Farmasi
-
-```text
-PROGRAM FARMASI
-
-Mempelajari dasar-dasar kefarmasian melalui
-kombinasi pembelajaran teori dan praktik yang
-mendorong ketelitian, keterampilan, dan
-tanggung jawab.
-
-✓ Praktikum Farmasi
-✓ Farmasi Day
-✓ Pengenalan Tool Kit
-✓ Pembuatan Sediaan Praktik
-✓ Kunjungan Industri
-```
-
----
-
-# 📣 Contoh CTA PPDB
-
-```text
-SIAP MENJADI BAGIAN DARI
-SMK KESEHATAN UTAMA INSANI?
-
-Temukan pengalaman belajar vokasi kesehatan
-melalui program Keperawatan dan Farmasi.
-
-[ Lihat Informasi Pendaftaran ]
-[ Hubungi Admin ]
-```
-
----
-
-# 📌 Informasi yang Masih Perlu Dilengkapi dari Sekolah
-
-Agar portfolio benar-benar **100% resmi dan lengkap**, mintalah data berikut kepada pihak sekolah:
+## Profil
 
 - [ ] logo resmi resolusi tinggi;
-- [ ] tahun/sejarah lengkap pendirian sekolah;
-- [ ] sambutan kepala sekolah terbaru;
-- [ ] foto kepala sekolah;
-- [ ] struktur organisasi terbaru;
-- [ ] daftar guru terbaru;
-- [ ] daftar staf;
-- [ ] nama resmi konsentrasi keahlian sesuai kurikulum 2026/2027;
-- [ ] detail kurikulum;
-- [ ] daftar mata pelajaran produktif;
-- [ ] detail fasilitas;
-- [ ] foto laboratorium;
-- [ ] daftar ekstrakurikuler;
-- [ ] daftar prestasi;
-- [ ] daftar mitra PKL;
-- [ ] daftar industri/instansi mitra;
-- [ ] data alumni;
-- [ ] statistik lulusan;
-- [ ] jadwal PPDB/SPMB terbaru;
-- [ ] biaya pendaftaran;
-- [ ] biaya pendidikan;
-- [ ] beasiswa;
-- [ ] persyaratan pendaftaran;
-- [ ] nomor WhatsApp PPDB resmi;
-- [ ] email khusus SMK terbaru;
-- [ ] akun media sosial resmi lainnya;
-- [ ] kalender akademik;
-- [ ] kebijakan privasi penggunaan foto siswa.
+- [ ] filosofi logo;
+- [ ] slogan resmi yayasan;
+- [ ] visi yayasan tersendiri bila berbeda dengan visi sekolah;
+- [ ] misi yayasan tersendiri;
+- [ ] tujuan yayasan;
+- [ ] program kerja;
+- [ ] foto kantor.
+
+## Pendidikan
+
+- [ ] kepala sekolah setiap unit terbaru;
+- [ ] jumlah guru;
+- [ ] jumlah siswa;
+- [ ] fasilitas;
+- [ ] prestasi;
+- [ ] program unggulan;
+- [ ] kurikulum;
+- [ ] kegiatan rutin;
+- [ ] kalender akademik.
+
+## Kerja Sama
+
+- [ ] perguruan tinggi mitra;
+- [ ] perusahaan;
+- [ ] rumah sakit;
+- [ ] puskesmas;
+- [ ] klinik;
+- [ ] apotek;
+- [ ] dunia industri;
+- [ ] komunitas;
+- [ ] lembaga sertifikasi.
+
+## Media
+
+- [ ] Instagram resmi yayasan;
+- [ ] YouTube;
+- [ ] TikTok;
+- [ ] Facebook;
+- [ ] nomor WhatsApp sekretariat;
+- [ ] nomor PPDB setiap unit.
 
 ---
 
-# ✅ Data yang Sudah Terverifikasi dari Sumber Publik
+# ✅ Data Publik yang Sudah Dapat Dipastikan
 
-| Data | Status |
+| Informasi | Status |
 |---|---|
-| Nama sekolah | ✅ Terverifikasi |
-| NPSN 20623127 | ✅ Terverifikasi |
-| Status swasta | ✅ Terverifikasi |
-| Alamat Panongan, Tangerang | ✅ Terverifikasi |
-| Akreditasi B | ✅ Terverifikasi |
-| SK pendirian 2012 | ✅ Tercatat pada data publik |
-| Program Keperawatan | ✅ Terlihat pada data pendidikan & kegiatan resmi |
-| Program Farmasi | ✅ Terlihat pada data pendidikan & kegiatan resmi |
-| Visi | ✅ Situs resmi |
-| Misi | ✅ Situs resmi |
-| Nilai Disiplin dan Jujur | ✅ Situs resmi |
-| Nilai Ramah dan Santun | ✅ Situs resmi |
-| Kegiatan LDKO | ✅ Situs resmi |
-| Farmasi Day | ✅ Galeri resmi |
-| Praktik KDM sistem pernapasan | ✅ Galeri resmi |
-| Praktikum XI Keperawatan | ✅ Galeri resmi |
-| Pembuatan lip balm dan balsam | ✅ Galeri resmi |
-| Nursing kit | ✅ Galeri resmi |
-| Tool kit Farmasi & Klinis | ✅ Galeri resmi |
-| Kunjungan industri | ✅ Galeri resmi |
-| Kegiatan cek kesehatan | ✅ Galeri resmi |
-| Instagram @smkui.official | ✅ Teridentifikasi publik |
+| Nama Yayasan Utama Insani Panongan | ✅ |
+| NPYP AM6287 | ✅ |
+| No. Pendirian 01 | ✅ |
+| Tanggal pendirian 1 Maret 2010 | ✅ |
+| SK Menkumham AHU-2087.AH.01.04.Tahun 2010 | ✅ |
+| Pengesahan 31 Mei 2010 | ✅ |
+| Pimpinan R.M. Gutomo, S.E. | ✅ Data Verval |
+| Operator Setyo Legowo Haryono | ✅ Data Verval |
+| Email yayasan | ✅ Data Verval |
+| TK Utama Insani | ✅ |
+| SDIT Utama Insani | ✅ |
+| SMP Islam Plus Utama Insani | ✅ |
+| SMKS Kesehatan Utama Insani | ✅ |
+| Visi pendidikan publik | ✅ Website |
+| Misi pendidikan publik | ✅ Website |
+| Disiplin dan Jujur | ✅ Website |
+| Ramah dan Santun | ✅ Website |
 
 ---
 
 # 🌐 Sumber Data
 
-Informasi dalam README ini ditelusuri dari sumber publik berikut.
+## 1. Verval Yayasan Kemendikdasmen
 
-### Website resmi Sekolah Utama Insani
+https://vervalyayasan.data.kemendikdasmen.go.id/
 
-- https://www.utamainsani.sch.id
-- https://utamainsani.sch.id/?page=galeri
+Data yang digunakan:
 
-Digunakan untuk memverifikasi:
-
+- NPYP;
+- nama yayasan;
 - alamat;
+- pimpinan;
+- operator;
+- email;
+- tanggal pendirian;
+- SK badan hukum;
+- sekolah naungan.
+
+## 2. Referensi Data Pendidikan Kemendikdasmen
+
+https://referensi.data.kemendikdasmen.go.id/
+
+Digunakan untuk identitas dan dokumen satuan pendidikan:
+
+- TK Utama Insani — NPSN 20616556;
+- SDIT Utama Insani — NPSN 70001964;
+- SMP Islam Plus Utama Insani — NPSN 70023849;
+- SMKS Kesehatan Utama Insani — NPSN 20623127.
+
+## 3. Website Utama Insani
+
+https://www.utamainsani.sch.id/
+
+Digunakan untuk:
+
 - visi;
 - misi;
-- nilai sekolah;
+- nilai pendidikan;
+- alamat operasional;
 - kontak;
-- jam layanan;
-- kegiatan;
-- dokumentasi Keperawatan;
-- dokumentasi Farmasi;
-- LDKO;
-- kegiatan kesehatan;
-- kunjungan industri.
-
-### Referensi Data Pendidikan Kemendikdasmen
-
-- https://referensi.data.kemendikdasmen.go.id/pendidikan/npsn/20623127
-- https://referensi.data.kemendikdasmen.go.id/snpmb/site/sekolah?npsn=20623127
-
-Digunakan untuk memverifikasi:
-
-- NPSN;
-- identitas sekolah;
-- wilayah;
-- program Keperawatan;
-- program Farmasi.
-
-### Portal Data SMK Indonesia
-
-- https://smk.sch.id/sekolah/20623127
-
-Portal tersebut menyatakan bahwa data bersumber dari Kemendikdasmen, BAN-PDM, Verval Yayasan, dan Dapodik.
-
-Digunakan sebagai referensi tambahan untuk:
-
-- kepala sekolah pada snapshot yang tersedia;
-- legalitas;
-- statistik siswa;
-- pendidik;
-- akreditasi;
-- yayasan;
-- koordinat.
-
-### Instagram
-
-- https://www.instagram.com/smkui.official/
-
-Digunakan untuk membantu mengidentifikasi kanal media sosial publik SMK.
+- informasi kegiatan;
+- identitas sekolah dalam ekosistem Utama Insani.
 
 ---
 
 # ⚠️ Disclaimer
 
-Portfolio ini dibuat berdasarkan informasi publik yang tersedia sampai proses penelusuran pada **11 Agustus 2026**.
+Data dalam portfolio ini diverifikasi dari sumber publik yang tersedia sampai **11 Agustus 2026**.
 
-Beberapa data seperti:
+Informasi yang dapat berubah antara lain:
 
-- kepala sekolah;
+- susunan pengurus;
+- pimpinan;
+- operator;
+- kontak;
+- data sekolah;
+- akreditasi;
 - jumlah siswa;
 - jumlah guru;
-- program keahlian;
-- kurikulum;
-- nomor kontak;
-- mitra industri;
 - fasilitas;
-- struktur organisasi;
-- PPDB/SPMB;
+- program;
+- mitra;
+- kebijakan PPDB/SPMB.
 
-dapat berubah dari waktu ke waktu.
+Untuk penggunaan sebagai:
 
-Sebelum README ini digunakan sebagai **website resmi, proposal resmi, profil PPDB, company profile sekolah, atau dokumen institusi**, lakukan validasi akhir dengan pihak **SMK Kesehatan Utama Insani / Yayasan Utama Insani**.
+- website resmi;
+- proposal yayasan;
+- company profile;
+- dokumen legal;
+- profil PPDB;
+- dokumen akreditasi;
+
+lakukan validasi akhir menggunakan dokumen internal Yayasan Utama Insani Panongan.
 
 ---
 
 # ❤️ Penutup
 
-SMK Kesehatan Utama Insani memiliki identitas yang kuat sebagai sekolah vokasi bidang kesehatan dengan pembelajaran yang menghubungkan teori, praktik, karakter, kesehatan, dan nilai-nilai Islami.
+Yayasan Utama Insani Panongan telah membentuk ekosistem pendidikan yang mencakup **TK, SDIT, SMP Islam Plus, dan SMK Kesehatan** di wilayah Panongan, Kabupaten Tangerang.
 
-Melalui portfolio digital yang terstruktur, sekolah dapat menampilkan:
+Secara portfolio, kekuatan utama ekosistem Utama Insani dapat dirangkum menjadi:
 
-- identitas yang lebih profesional;
-- program Keperawatan dan Farmasi;
-- pengalaman praktik siswa;
-- aktivitas kesiswaan;
-- kegiatan kesehatan;
-- hubungan dengan dunia kerja;
-- pencapaian sekolah;
-- informasi penerimaan siswa;
-- komunikasi yang lebih mudah dengan masyarakat.
+```text
+PENDIDIKAN
+     +
+KARAKTER
+     +
+NILAI ISLAMI
+     +
+KESEHATAN
+     +
+KEPEMIMPINAN
+     +
+INOVASI
+```
 
-Portfolio yang baik bukan hanya berfungsi sebagai tampilan digital, tetapi juga sebagai **media informasi, promosi, dokumentasi, transparansi, dan penguatan citra sekolah**.
+Dengan pengembangan profil digital yang terintegrasi, yayasan dapat menghadirkan identitas yang lebih kuat sekaligus menyatukan seluruh unit pendidikan dalam satu ekosistem informasi.
 
 ---
 
 <p align="center">
-  <b>SMK Kesehatan Utama Insani</b><br>
-  Jl. AMD No. 9 Panongan, Kabupaten Tangerang, Banten<br><br>
+  <b>YAYASAN UTAMA INSANI PANONGAN</b><br>
+  Panongan • Kabupaten Tangerang • Banten<br><br>
   <i>Berkualitas • Berkarakter • Menjunjung Tinggi Nilai-Nilai Islami</i>
 </p>
